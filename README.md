@@ -1,5 +1,5 @@
 - COGNITIVE ARCHITECTURE BASED AUTONOMOUS AGENTS REPO
-- utilizing the cognitivearchitecture framework and LLM based reasoning to create maximally flexible learning agents on the path to AGI
+- utilizing the cognitive architecture framework and LLM based reasoning to create maximally flexible learning agents on the path to AGI
 
 <!---
 klam75/klam75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
